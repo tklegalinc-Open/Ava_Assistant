@@ -22,6 +22,7 @@
 | Task | Description | Why It Matters | Started | Artifacts |
 |------|-------------|----------------|---------|-----------|
 | TK Legal client acquisition | LinkedIn content, Meta ads, referral system | De-risk from Nualtis, fund other ventures | 2026-02-02 | WIP |
+| **AI Video Test — APPROVED** | Kling + TK Legal + $200 budget | Test scalable video ads | 2026-02-02 | Waiting for Kling access |
 
 ---
 
