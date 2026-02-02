@@ -11,7 +11,7 @@
 | Web search setup | Configure Brave API key | Enables live research, competitive intel | 2026-02-02 |
 | BrassFire prototype photos | Get product shots for analysis | Can't market without visuals | 2026-02-02 |
 | Mountain house status | Confirm permit status | Critical timeline dependency | 2026-02-02 |
-| TK Legal online presence | Audit current web presence, propose improvements | Client acquisition | 2026-02-02 |
+| ~~TK Legal online presence~~ | Merged into acquisition plan | — | — |
 | Content first draft | Write first LinkedIn article from content calendar | Build thought leadership engine | 2026-02-02 |
 
 ---
@@ -21,7 +21,7 @@
 
 | Task | Description | Why It Matters | Started | Artifacts |
 |------|-------------|----------------|---------|-----------|
-| — | — | — | — | — |
+| TK Legal client acquisition | LinkedIn content, Meta ads, referral system | De-risk from Nualtis, fund other ventures | 2026-02-02 | WIP |
 
 ---
 
