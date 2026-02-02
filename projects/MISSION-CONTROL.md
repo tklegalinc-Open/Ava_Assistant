@@ -21,8 +21,7 @@
 
 | Task | Description | Why It Matters | Started | Artifacts |
 |------|-------------|----------------|---------|-----------|
-| Initial systems setup | Dashboard, priorities, frameworks | Foundation for everything else | 2026-02-02 | STATUS.md, PRIORITIES.md, etc. |
-| Codex integration | Set up coding workflow | Code execution capability | 2026-02-02 | ✅ Complete |
+| — | — | — | — | — |
 
 ---
 
@@ -36,6 +35,8 @@
 | 2026 pharma conference calendar | JPM, DCAT, BIO, CPhI dates and prep | BD planning | 2026-02-02 | `projects/intelgenx/2026-PHARMA-CONFERENCES.md` |
 | Suite 77 unit economics | Margin analysis | Pricing validation | 2026-02-02 | `projects/suite77/UNIT-ECONOMICS.md` |
 | Content calendar framework | Sunday session structure | Content engine | 2026-02-02 | `projects/content/CONTENT-CALENDAR.md` |
+| **LinkedIn article: Solopreneur Trap** | First thought leadership piece, ready to post | Visibility, BD pipeline, positions you as builder | 2026-02-02 | `projects/content/drafts/linkedin-solopreneur-trap.md` |
+| **Decision Journal** | Template + framework to track decisions, counter shiny object syndrome | Focus, pattern recognition, accountability | 2026-02-02 | `projects/DECISION-JOURNAL.md` |
 
 ---
 
@@ -53,12 +54,12 @@
 
 ## 📊 Stats
 
-- **Total tasks tracked:** 14
+- **Total tasks tracked:** 16
 - **Completed today:** 4
-- **Waiting for review:** 5
-- **In progress:** 2
+- **Waiting for review:** 7
+- **In progress:** 0
 - **Backlog:** 5
 
 ---
 
-*Updated: 2026-02-02 21:25 UTC*
+*Updated: 2026-02-02 21:30 UTC*
